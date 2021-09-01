@@ -30,9 +30,9 @@ REACT_APP_BACKEND_URL = http://localhost:4000
 
 ### Server
 
-PORT = 4000
-MONGODB_URI = mongodb://localhost/vytruve
-FRONTEND_URL = http://localhost:3000
-SESSION_SECRET = mMYSëccret3SH0ldB3H4rdToöOoCrack!!! 
+- PORT = 4000
+- MONGODB_URI = mongodb://localhost/vytruve
+- FRONTEND_URL = http://localhost:3000
+- SESSION_SECRET = mMYSëccret3SH0ldB3H4rdToöOoCrack!!! 
 
 Enjoy !
