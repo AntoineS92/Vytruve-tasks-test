@@ -1,9 +1,8 @@
-# MERN Boilerplate
+# Vytruve technical test
 
 ## Intro
 
-This is a MERN stack application boilerplate.
-
+This is a MERN stack application.
 
 ### to open the application :
 
