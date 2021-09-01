@@ -4,6 +4,8 @@
 
 This is a MERN stack application.
 
+Even though the authentication is working, it is for now completely useless to create an account.
+
 ### to open the application :
 
 ### client side : 
