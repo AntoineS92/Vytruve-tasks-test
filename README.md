@@ -12,18 +12,14 @@ Even though the authentication is working, it is for now completely useless to c
 
 
 - npm install
-- create a `.env` at same level as the `package.json` file, and set the environement variables :
+- create a `.env` at same level as the `package.json` file, and set the environement variables (see end of the README file).
       REACT_APP_BACKEND_URL = http://localhost:4000
 - npm start
 
 ### @./server side : 
 
 - npm install
-- create a `.env` at same level as the `package.json` file, and set the environement variables :
-      PORT = 4000
-      MONGODB_URI = mongodb://localhost/vytruve
-      FRONTEND_URL = http://localhost:3000
-      SESSION_SECRET = mMYSëccret3SH0ldB3H4rdToöOoCrack!!!
+- create a `.env` at same level as the `package.json` file, and set the environement variables (see end of the README file).
 - npm run dev
 
 ## Environment variables
