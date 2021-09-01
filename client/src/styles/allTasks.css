@@ -1,0 +1,16 @@
+.all-tasks {
+    display: flex;
+    justify-content: center;
+}
+
+.allTasksContainer {
+    width: 90vw;
+}
+
+.is-parent {
+    width: 100%;
+}
+
+.button {
+    margin-right: 15px;
+}
